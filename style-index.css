@@ -12,6 +12,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
 }
 
 .attribution { font-size: 11px; text-align: center; }
@@ -67,4 +68,9 @@ main div  {
 
 .border {
     border-radius: 15px;
+}
+
+body > div {
+    padding-top: 50px;
+
 }
