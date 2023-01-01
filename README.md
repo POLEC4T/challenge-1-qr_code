@@ -35,11 +35,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
-/* in order to put elements of the body in the center (vertically), I used "justify-content: center;", but I needed to put "height: 100vh;" in order to make justify-content functional   */
+/* in order to put elements of the body in the center (vertically),
+ I used "justify-content: center;", but I needed to put "height:
+ 100vh;" in order to make justify-content functional */
 body {
     display: flex;
     flex-direction: column;
